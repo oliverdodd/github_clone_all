@@ -9,9 +9,9 @@ Requirements:
 
 Usage
 -----
-	./github_clone_all.rb <username>
+  ./github_clone_all.rb <username>
 
 or
 
-	./github_clone_all.rb
-	github username: <username>
+  ./github_clone_all.rb
+  github username: <username>
